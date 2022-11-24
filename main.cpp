@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+    system("Color 0b");
     float lado=0;
     cout << "- - - - - FORMA GEOMETRICA CUADRADA - - - - - " << "\n";
     cout<<"Ingrese el valor del lado: ";
